@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Lessons" android:id="@+id/lessons"/>
+    <item android:title="Articles" android:id="@+id/articles"/>
+    <item android:title="City-Wise Data" android:id="@+id/citydata"/>
+    <item android:title="Map-Wise Data" android:id="@+id/mapdata"/>
+
+</menu>
