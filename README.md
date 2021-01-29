@@ -21,4 +21,13 @@ Using data from around the entire world, it educates users on the above-mentione
 This app is undoubtedly an extremely useful resource considering the global situation during the current times and I am very confident that it will make a huge difference to the world.
 
 <h1>Screenshots</h1>
-![](https://github.com/mizanxali/maverick-aqi-platform/blob/master/screenshots/Screenshot_20200501-222937.png)
+<img src=screenshots/Screenshot_20200501-222937.png width=30%/>
+<img src=screenshots/Screenshot_20200501-222950.png width=30%/>
+<img src=screenshots/Screenshot_20200501-222956.png width=30%/>
+<img src=screenshots/Screenshot_20200501-223013.png width=30%/>
+<img src=screenshots/Screenshot_20200501-223042.png width=30%/>
+<img src=screenshots/Screenshot_20200501-223047.png width=30%/>
+<img src=screenshots/Screenshot_20200501-223111.png width=30%/>
+<img src=screenshots/Screenshot_20200501-223213.png width=30%/>
+<img src=screenshots/Screenshot_20200501-223241.png width=30%/>
+<img src=screenshots/Screenshot_20200501-223408.png width=30%/>
