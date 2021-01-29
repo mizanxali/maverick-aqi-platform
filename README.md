@@ -21,4 +21,4 @@ Using data from around the entire world, it educates users on the above-mentione
 This app is undoubtedly an extremely useful resource considering the global situation during the current times and I am very confident that it will make a huge difference to the world.
 
 <h1>Screenshots</h1>
-![Screenshot1](screenshots/Screenshot_20200501-222937.png)
+![](screenshots/Screenshot_20200501-222937.png)
